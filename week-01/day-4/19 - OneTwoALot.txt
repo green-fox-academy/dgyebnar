@@ -1,0 +1,32 @@
+using System;
+
+namespace gyakorlas
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Please give a number!");
+            string s = Console.ReadLine();
+            int number = Convert.ToInt32(s);
+            if (number <= 0)
+            {
+                Console.WriteLine("ZERO");
+            }
+            else if (number == 1)
+            {
+                Console.WriteLine("ONE");
+            }
+            else if (number == 2)
+            {
+                Console.WriteLine("TWO");
+            }
+            else if (number > 2)
+            {
+                Console.WriteLine("A lot");
+            }
+            Console.ReadKey();
+        }
+    }
+}

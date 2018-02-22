@@ -1,0 +1,28 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Lists
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] numbers = { 1, 2, 3, 4, 5 };
+            Console.WriteLine(sum(numbers));
+            Console.ReadLine();
+
+        }
+        static int sum(int[] number)
+        {
+            int add = 0;
+
+            foreach (var each in number)
+            {
+                add = add + each;
+            }
+            return add;
+        }
+    }
+}
+

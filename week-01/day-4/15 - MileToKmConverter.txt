@@ -1,0 +1,11 @@
+static void Main(string[] args)
+    {
+      int km;
+      double miles = 0.6213;
+
+      Console.WriteLine("Please give a number of kilometer!");
+      string input = Console.ReadLine();
+      Int32.TryParse(input, out km);
+      Console.WriteLine(km * miles + " miles");
+      Console.ReadLine();
+    }

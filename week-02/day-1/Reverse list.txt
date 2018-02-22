@@ -1,0 +1,20 @@
+using System;
+
+namespace tombok
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] aj = { 3, 4, 5, 6, 7 };
+
+            for (int i = 4; i < aj.Length && i != -1; i--)
+            {
+                int tmp;
+                tmp = aj[i];
+                Console.Write("{0} ", tmp);
+            }
+            Console.ReadLine();
+        }
+    }
+}

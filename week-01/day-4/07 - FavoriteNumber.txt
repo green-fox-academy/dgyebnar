@@ -1,0 +1,15 @@
+using System;
+
+namespace gyakorlas
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            int FavoriteNumber = 8;
+            Console.WriteLine("My favorite number is:" + FavoriteNumber);
+	    Console.Readline();
+        }
+    }
+}

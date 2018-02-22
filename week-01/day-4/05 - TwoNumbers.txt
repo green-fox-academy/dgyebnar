@@ -1,0 +1,22 @@
+using System;
+
+namespace gyakorlas
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            int a, b;
+            a = 13;
+            b = 22;
+
+            Console.WriteLine(a + b);
+            Console.WriteLine(b - a);
+            Console.WriteLine(a * b);
+            Console.WriteLine(b % a);
+            Console.WriteLine(b / a);
+            Console.ReadLine();
+        }
+    }
+}

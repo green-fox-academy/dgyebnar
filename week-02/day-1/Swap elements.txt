@@ -1,0 +1,50 @@
+using System;
+
+namespace tombok
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] abc = { "first", "second", "third" };
+            var szoveg = swap(abc[0], abc[2]);
+            abc[0] = szoveg.Item1;
+            abc[2] = szoveg.Item2;
+            Console.WriteLine(abc[0]);
+            Console.ReadLine();
+        }
+
+        static Tuple<string, string> swap(string a, string b)
+        {
+            string temp = a;
+            a = b;
+            b = temp;
+            return new Tuple<string, string>(a, b);
+        }
+    }
+}
+
+using System;
+
+namespace tombok
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] abc = { "first", "second", "third" };
+
+            Swap(ref abc[0], ref abc[2]);
+            Console.WriteLine(abc[0]);
+            Console.ReadLine();
+        }
+
+        static void Swap(ref string a, ref string b)
+        {
+            string temp = a;
+            a = b;
+            b = temp;           
+        }
+    }
+}
+

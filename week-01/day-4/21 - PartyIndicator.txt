@@ -1,0 +1,31 @@
+using System;
+
+namespace gyakorlas
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Please give two numbers!");
+            Console.WriteLine("First, How many girls come to the party?");
+            int NumberOfGirls = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Second, How many boys come to the party?");
+            int NumberOfBoys  = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Party is exellent!");
+            if (NumberOfGirls == NumberOfBoys && (NumberOfBoys + NumberOfGirls) > 20)
+            {
+                Console.WriteLine("Quite cool party"); 
+            }
+            else if ((NumberOfBoys + NumberOfGirls) > 20 && NumberOfGirls < NumberOfBoys)
+            {
+                Console.WriteLine("Avarage Party...");
+            }
+            else if ((NumberOfBoys + NumberOfGirls) < 20)
+            {
+                Console.WriteLine("Sausages party");
+            }
+            Console.ReadKey();
+        }
+    }
+}

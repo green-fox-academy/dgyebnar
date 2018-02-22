@@ -1,0 +1,19 @@
+using System;
+
+namespace gyakorlas
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            string name = "David";
+            int age = 28;
+            double height = 1.90;
+            bool married = false;
+
+            Console.WriteLine(name + " " + age + " " + height + " " + married);
+            Console.ReadLine();
+        }
+    }
+}

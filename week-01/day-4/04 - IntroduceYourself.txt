@@ -1,0 +1,16 @@
+using System;
+
+namespace gyakorlas
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("David");
+            Console.WriteLine(28);
+            Console.WriteLine(1.90);
+	    Console.ReadLine();
+        }
+    }
+}

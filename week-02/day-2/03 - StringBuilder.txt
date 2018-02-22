@@ -1,0 +1,19 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Lists
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string quote = "Hofstadter's Law: It you expect, even when you take into account Hofstadter's Law.";
+            StringBuilder sb = new StringBuilder();
+            sb.Append(quote);
+            sb.Insert(21,"always takes longer than");
+            Console.WriteLine(sb);
+            Console.ReadLine();
+        }
+    }
+}

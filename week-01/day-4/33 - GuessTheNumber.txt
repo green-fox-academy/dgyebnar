@@ -1,0 +1,49 @@
+using System;
+
+namespace gyakorlas
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            int a = 69;
+            bool run = false;
+            int guessedNumber = 0;
+
+            Console.WriteLine("I thought of a number, you have to figure it out!");
+            Console.WriteLine("Write your tip!");
+
+            while (!run)                
+            {
+                try
+                {
+                    
+                    guessedNumber = Convert.ToInt32(Console.ReadLine());
+
+                    if (a == guessedNumber)
+                    {
+                        Console.WriteLine("You found the number: " + a);
+
+                    }
+                    else if (a > guessedNumber)
+                    {
+                        Console.WriteLine("Number is higher");
+
+                    }
+                    else if (a < guessedNumber)
+                    {
+                        Console.WriteLine("Number is lower");
+                    }
+                }
+                catch (FormatException feX)
+                {
+                    Console.WriteLine("Wrong input");
+                }
+            }
+                
+                Console.ReadLine();
+        }
+    }
+}
+

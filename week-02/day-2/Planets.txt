@@ -1,0 +1,19 @@
+static void Main(string[] args)
+        {
+            var planetList = new List<string> { "Mercury", "Venus", "Earth", "Mars", "Jupiter", "Uranus", "Neptune" };
+    
+            Console.WriteLine(PutSaturn(planetList));
+            Console.ReadLine();
+        }
+
+        public static string PutSaturn(List<string> planets)
+        {
+            planets.Insert(7, "Saturn");
+            string fullsolar = "";
+            foreach (var item in solar)
+            {
+                fullsolar += "\"" + item + "\"" + ", ";
+            }
+            return fullsolar;
+                    
+}

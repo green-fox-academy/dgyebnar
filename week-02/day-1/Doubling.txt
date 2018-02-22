@@ -1,0 +1,22 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Lists
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int ak = 123;
+            Console.WriteLine(doubling(ak));
+            Console.ReadLine();
+        }
+
+        public static int doubling(int a)
+        {
+            return a * a;
+        }
+    }
+}
+

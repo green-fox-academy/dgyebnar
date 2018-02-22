@@ -1,0 +1,24 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Lists
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string reversed =  ".eslaf eb t'ndluow ecnetnes siht ,dehctiws erew eslaf dna eurt fo sgninaem eht fI";
+            Console.WriteLine(Reverse(reversed));
+            Console.ReadLine(); 
+        }
+
+        public static string Reverse(string s)
+        {
+            char[] charArray = s.ToCharArray();
+            Array.Reverse(charArray);
+            return new string(charArray);
+        }
+    }
+}
+

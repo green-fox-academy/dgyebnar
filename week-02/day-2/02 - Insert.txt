@@ -1,0 +1,19 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Lists
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string url = "https//www.reddit.com/r/nevertellmethebots";
+            string newurl = url.Insert(5, ":");
+            newurl = url.Replace("bots", "odds");
+            
+            Console.WriteLine(newurl);
+            Console.ReadLine();
+        }
+    }
+}

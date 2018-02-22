@@ -1,0 +1,23 @@
+using System;
+
+namespace gyakorlas
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Please give two numbers!");
+           
+            int smaller = Convert.ToInt32(Console.ReadLine());
+            int bigger = Convert.ToInt32(Console.ReadLine());
+
+            if (smaller > bigger)
+            {
+                bigger = smaller;
+            }
+            Console.WriteLine("The greater number is: " + bigger);
+            Console.ReadKey();
+        }
+    }
+}

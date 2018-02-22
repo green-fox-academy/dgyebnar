@@ -1,0 +1,32 @@
+using System;
+
+namespace gyakorlas
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+
+            Console.WriteLine("Please give two numbers!");
+
+            int firstNumber = Convert.ToInt32(Console.ReadLine());
+            int secondNumber = Convert.ToInt32(Console.ReadLine());
+
+            if (firstNumber > secondNumber)
+            {
+                Console.WriteLine("The second number should be bigger");
+            }
+            else
+            {
+                while (secondNumber > firstNumber)
+                {
+                    Console.WriteLine(firstNumber++);
+                }
+                //Console.WriteLine("First number:" + firstNumber + " " + "Second number:" + secondNumber);
+                }
+
+            Console.ReadLine();
+        }
+    }
+}

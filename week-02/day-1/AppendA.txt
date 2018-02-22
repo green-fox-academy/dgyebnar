@@ -1,0 +1,22 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Lists
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string am = "kuty"; 
+            Console.WriteLine(appendsA(am));
+            Console.ReadLine();
+        }
+
+        public static string appendsA(string fuzes)
+        {      
+            return fuzes + "a";
+        }
+    }
+}
+

@@ -1,0 +1,38 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace Drawing
+{
+
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+            var foxDraw = new FoxDraw(canvas);
+            DrawRectangles(foxDraw, 10, 10, 100, 100, Colors.Blue);
+            DrawRectangles(foxDraw, 10, 130, 100, 10, Colors.Cyan);
+            DrawRectangles(foxDraw, 10, 150, 60, 60, Colors.Black);
+            DrawRectangles(foxDraw, 10, 220, 150, 100, Colors.Purple);
+        }
+
+        public static void DrawRectangles(FoxDraw foxDraw, double startX, double startY, double endX, double endY, Color color)
+        {
+            foxDraw.StrokeColor(color);
+            foxDraw.FillColor(color);
+            foxDraw.DrawRectangle(startX, startY, endX, endY);   
+        }
+    }
+}

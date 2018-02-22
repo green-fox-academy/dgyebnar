@@ -1,0 +1,20 @@
+using System;
+
+namespace gyakorlas
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            int a = 123;
+            int b = 526;
+            int temp = a;
+            a = b;
+            b = temp;
+
+            Console.WriteLine(a + " " + b);
+            Console.ReadLine();
+        }
+    }
+}

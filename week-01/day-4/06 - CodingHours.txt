@@ -1,0 +1,20 @@
+using System;
+
+namespace gyakorlas
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            int attendee = 6;
+            int semester = 17;
+            double avarage = attendee * semester;
+
+            Console.WriteLine((attendee * 5) * semester);
+            Console.WriteLine((semester / avarage) * 100 % 52);
+            Console.ReadLine();
+        }
+    }
+}
+	   
