@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\GardenApp\obj\Debug\netcoreapp2.0\GardenApp.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\GardenApp\obj\Debug\netcoreapp2.0\GardenApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\GardenApp\obj\Debug\netcoreapp2.0\GardenApp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\GardenApp\obj\Debug\netcoreapp2.0\GardenApp.AssemblyInfo.cs
+C:\Users\admin\source\repos\GardenApp\bin\Debug\netcoreapp2.0\GardenApp.deps.json
+C:\Users\admin\source\repos\GardenApp\bin\Debug\netcoreapp2.0\GardenApp.runtimeconfig.json
+C:\Users\admin\source\repos\GardenApp\bin\Debug\netcoreapp2.0\GardenApp.runtimeconfig.dev.json
+C:\Users\admin\source\repos\GardenApp\bin\Debug\netcoreapp2.0\GardenApp.dll
+C:\Users\admin\source\repos\GardenApp\bin\Debug\netcoreapp2.0\GardenApp.pdb
+C:\Users\admin\source\repos\GardenApp\obj\Debug\netcoreapp2.0\GardenApp.dll
+C:\Users\admin\source\repos\GardenApp\obj\Debug\netcoreapp2.0\GardenApp.pdb

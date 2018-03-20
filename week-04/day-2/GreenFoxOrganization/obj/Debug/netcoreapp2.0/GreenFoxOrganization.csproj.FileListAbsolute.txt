@@ -1,0 +1,11 @@
+c:\users\admin\source\repos\GreenFoxOrganization\bin\Debug\netcoreapp2.0\GreenFoxOrganization.deps.json
+c:\users\admin\source\repos\GreenFoxOrganization\bin\Debug\netcoreapp2.0\GreenFoxOrganization.runtimeconfig.json
+c:\users\admin\source\repos\GreenFoxOrganization\bin\Debug\netcoreapp2.0\GreenFoxOrganization.runtimeconfig.dev.json
+c:\users\admin\source\repos\GreenFoxOrganization\bin\Debug\netcoreapp2.0\GreenFoxOrganization.dll
+c:\users\admin\source\repos\GreenFoxOrganization\bin\Debug\netcoreapp2.0\GreenFoxOrganization.pdb
+c:\users\admin\source\repos\GreenFoxOrganization\obj\Debug\netcoreapp2.0\GreenFoxOrganization.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\GreenFoxOrganization\obj\Debug\netcoreapp2.0\GreenFoxOrganization.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\GreenFoxOrganization\obj\Debug\netcoreapp2.0\GreenFoxOrganization.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\GreenFoxOrganization\obj\Debug\netcoreapp2.0\GreenFoxOrganization.AssemblyInfo.cs
+c:\users\admin\source\repos\GreenFoxOrganization\obj\Debug\netcoreapp2.0\GreenFoxOrganization.dll
+c:\users\admin\source\repos\GreenFoxOrganization\obj\Debug\netcoreapp2.0\GreenFoxOrganization.pdb
