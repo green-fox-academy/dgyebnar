@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\PetrolStation\bin\Debug\netcoreapp2.0\PetrolStation.deps.json
+C:\Users\admin\source\repos\PetrolStation\bin\Debug\netcoreapp2.0\PetrolStation.runtimeconfig.json
+C:\Users\admin\source\repos\PetrolStation\bin\Debug\netcoreapp2.0\PetrolStation.runtimeconfig.dev.json
+C:\Users\admin\source\repos\PetrolStation\bin\Debug\netcoreapp2.0\PetrolStation.dll
+C:\Users\admin\source\repos\PetrolStation\bin\Debug\netcoreapp2.0\PetrolStation.pdb
+C:\Users\admin\source\repos\PetrolStation\obj\Debug\netcoreapp2.0\PetrolStation.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\PetrolStation\obj\Debug\netcoreapp2.0\PetrolStation.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PetrolStation\obj\Debug\netcoreapp2.0\PetrolStation.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PetrolStation\obj\Debug\netcoreapp2.0\PetrolStation.AssemblyInfo.cs
+C:\Users\admin\source\repos\PetrolStation\obj\Debug\netcoreapp2.0\PetrolStation.dll
+C:\Users\admin\source\repos\PetrolStation\obj\Debug\netcoreapp2.0\PetrolStation.pdb

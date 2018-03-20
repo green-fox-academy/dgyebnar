@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Sharpie\bin\Debug\netcoreapp2.0\Sharpie.deps.json
+C:\Users\admin\source\repos\Sharpie\bin\Debug\netcoreapp2.0\Sharpie.runtimeconfig.json
+C:\Users\admin\source\repos\Sharpie\bin\Debug\netcoreapp2.0\Sharpie.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Sharpie\bin\Debug\netcoreapp2.0\Sharpie.dll
+C:\Users\admin\source\repos\Sharpie\bin\Debug\netcoreapp2.0\Sharpie.pdb
+C:\Users\admin\source\repos\Sharpie\obj\Debug\netcoreapp2.0\Sharpie.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\Sharpie\obj\Debug\netcoreapp2.0\Sharpie.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Sharpie\obj\Debug\netcoreapp2.0\Sharpie.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Sharpie\obj\Debug\netcoreapp2.0\Sharpie.AssemblyInfo.cs
+C:\Users\admin\source\repos\Sharpie\obj\Debug\netcoreapp2.0\Sharpie.dll
+C:\Users\admin\source\repos\Sharpie\obj\Debug\netcoreapp2.0\Sharpie.pdb

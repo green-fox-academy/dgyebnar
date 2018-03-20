@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\PrintEachLine\bin\Debug\netcoreapp2.0\PrintEachLine.deps.json
+C:\Users\admin\source\repos\PrintEachLine\bin\Debug\netcoreapp2.0\PrintEachLine.runtimeconfig.json
+C:\Users\admin\source\repos\PrintEachLine\bin\Debug\netcoreapp2.0\PrintEachLine.runtimeconfig.dev.json
+C:\Users\admin\source\repos\PrintEachLine\bin\Debug\netcoreapp2.0\PrintEachLine.dll
+C:\Users\admin\source\repos\PrintEachLine\bin\Debug\netcoreapp2.0\PrintEachLine.pdb
+C:\Users\admin\source\repos\PrintEachLine\obj\Debug\netcoreapp2.0\PrintEachLine.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\PrintEachLine\obj\Debug\netcoreapp2.0\PrintEachLine.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PrintEachLine\obj\Debug\netcoreapp2.0\PrintEachLine.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PrintEachLine\obj\Debug\netcoreapp2.0\PrintEachLine.AssemblyInfo.cs
+C:\Users\admin\source\repos\PrintEachLine\obj\Debug\netcoreapp2.0\PrintEachLine.dll
+C:\Users\admin\source\repos\PrintEachLine\obj\Debug\netcoreapp2.0\PrintEachLine.pdb

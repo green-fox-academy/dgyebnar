@@ -1,0 +1,11 @@
+c:\users\admin\source\repos\CountLines\bin\Debug\netcoreapp2.0\CountLines.deps.json
+c:\users\admin\source\repos\CountLines\bin\Debug\netcoreapp2.0\CountLines.runtimeconfig.json
+c:\users\admin\source\repos\CountLines\bin\Debug\netcoreapp2.0\CountLines.runtimeconfig.dev.json
+c:\users\admin\source\repos\CountLines\bin\Debug\netcoreapp2.0\CountLines.dll
+c:\users\admin\source\repos\CountLines\bin\Debug\netcoreapp2.0\CountLines.pdb
+c:\users\admin\source\repos\CountLines\obj\Debug\netcoreapp2.0\CountLines.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\CountLines\obj\Debug\netcoreapp2.0\CountLines.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\CountLines\obj\Debug\netcoreapp2.0\CountLines.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\CountLines\obj\Debug\netcoreapp2.0\CountLines.AssemblyInfo.cs
+c:\users\admin\source\repos\CountLines\obj\Debug\netcoreapp2.0\CountLines.dll
+c:\users\admin\source\repos\CountLines\obj\Debug\netcoreapp2.0\CountLines.pdb
